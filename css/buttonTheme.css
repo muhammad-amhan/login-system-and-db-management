@@ -1,0 +1,77 @@
+		
+		.navBar {
+			border: 0px solid black;
+		}
+		
+		.logoutBtn {
+			margin-right: 3em;
+			margin-bottom: 3em;
+			float: right;
+			height: 2em;
+			width: 6em;
+			transition-duration: 0.4s;
+			background-color: #fff;
+			border: 2px solid #7f0000;
+		}
+		
+		.logoutBtn:hover {
+			background-color: #990000;
+			color: #fff;
+		}
+		
+		.menuBtn {
+			margin-left: 3em;
+			margin-bottom: 3em;
+			float: left;
+			height: 2em;
+			width: 6em;
+			transition-duration: 0.4s;
+			background-color: #fff;
+			border: 2px solid #7f0000;
+		}
+		
+		.menuBtn:hover {
+			background-color: #990000;
+			color: #fff;
+		}
+		
+		#hr1 {
+			margin-left: 2.5em;
+			margin-right: 2.5em;
+		}
+		
+		.bottomNav {
+			border: 0px solid black;
+			margin-left: 2.5em;
+			margin-top: 3em;
+			height: 2em;
+		}
+		
+		.backBtn {
+			border: none;
+			float: left;
+			height: 2em;
+			width: 6em;
+			transition-duration: 0.4s;
+			background-color: #fff;
+			border: 2px solid #7f0000;
+			
+		}
+		
+		.backBtn:hover {
+			background-color: #990000;
+			color: #fff;
+		}
+		
+		.footer {
+			text-align: center;
+			font-style: italic;
+			font-size: 12px;
+			color: #696969;
+			float: bottom;
+		}
+		
+		#hr2 {
+			margin-left: 2.5em;
+			margin-right: 2.5em;
+		}

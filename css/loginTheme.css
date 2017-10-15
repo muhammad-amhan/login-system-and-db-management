@@ -1,0 +1,65 @@
+		
+		
+		body {
+			font-family: Arial;
+			background-color: #2F4F4F;
+		}
+	
+		.formContainer {
+			border: 2px solid black;
+			margin: auto;
+			margin-top: 10em;
+			width: 20em;
+			height: 24em;
+			border-radius: 10px;
+			background-color: #fff;
+		}
+		
+		h1 {
+			text-align: center;
+		}
+		
+		.lblContainer {
+			border: 0px solid black;
+			margin-top: 3.5em;
+		}
+		
+		input[type=text], input[type=password] {
+			padding-left: 6px;
+			height: 2.5em;
+			outline: none;
+			border: none;
+			border-bottom: 2px solid #000000;
+			width: 90%;
+			margin-left: 14px;
+			font-size: 16px;
+		}
+		
+		.label {
+			float: left;
+			padding-left: 14px;
+		}
+			
+		.btnContainer {
+			border: 0px solid black;
+			text-align: center;
+			margin-top: 2em;
+		}	
+		
+		.loginBtn {
+			width: 90%;
+			height: 2.5em;
+			transition-duration: 0.4s;
+			background-color: #fff;
+			border: 2px solid #7f0000;
+			font-size: 18px;
+			border-radius: 10px;
+		}
+		
+		.loginBtn:hover {
+			background-color: #990000;
+			color: #fff;
+		}
+		
+		
+		

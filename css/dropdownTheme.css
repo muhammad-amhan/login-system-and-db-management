@@ -1,0 +1,54 @@
+		body {
+			font-family: Arial;
+		}
+		
+		.container {
+			border: 0px solid black;
+			margin: auto;
+			width: 80%;
+		}
+		
+		.header {
+			border: 0px solid black;
+			text-align: center;
+		}
+		
+		.tableListContainer {
+			border: 0px solid black;
+			margin: auto;
+			margin-top: 4em;
+			width: 80%;
+		}
+		
+		table {
+			border-collapse: collapse;
+			cellpadding: 0;  
+			border: 0;
+		}
+		
+		td {
+			padding-left: 6px;
+			padding-right: 6px;
+			border-left: 1px solid #000000;
+		}
+		
+		#submitBtn {
+			width: 6em;
+			height: 2em;
+			transition-duration: 0.4s;
+			background-color: #484848;
+			color: #fff;
+			border: 2px solid #000000;
+			outline: none;
+			
+		}
+		
+		#submitBtn:hover {
+			color: #fff;
+			background-color; #000000;
+		}
+		
+		
+		
+		
+		
